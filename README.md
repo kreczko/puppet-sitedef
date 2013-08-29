@@ -1,0 +1,4 @@
+puppet-sitedef
+==============
+
+Site definition
